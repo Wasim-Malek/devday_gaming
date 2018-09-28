@@ -1,0 +1,2 @@
+c:\environments\gaming\Scripts\activate.bat
+python c:\Users\Trainer\Documents\devday_gaming\drawing2.py
